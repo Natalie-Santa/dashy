@@ -12,6 +12,14 @@
 }
 
 /*Escribe aqui tu codigo */
+.sidebar-closed #main-content{
+	margin-top: 550px;
+	margin-left: 20px;
+}
+#main-content{
+	margin-left: 230px;
+	margin-top: -500px;
+}
 /*login*/
 .form-login{
 	background-color: #FFFFFF;
@@ -82,4 +90,14 @@ td .btn-xs i{
 }
 .wrapper td{
 	color: #848484;
+}
+/*buttons*/
+.showback{
+	background-color: white;
+	padding-bottom: 15px;
+	margin-top: 20px;
+	padding-left: 5px;
+	-webkit-box-shadow: 2px 5px 5px 0px rgba(170,178,189,0.98);
+	-moz-box-shadow: 2px 5px 5px 0px rgba(170,178,189,0.98);
+	box-shadow: 2px 5px 5px 0px rgba(170,178,189,0.98);
 }
