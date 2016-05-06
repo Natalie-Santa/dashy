@@ -1,0 +1,50 @@
+/*No tocar este codigo*/ 
+.sidebar-closed > #sidebar > ul {
+    display: none;
+}
+
+.sidebar-closed #main-content {
+    margin-left: 0px;
+}
+
+.sidebar-closed #sidebar {
+    margin-left: -180px;
+}
+
+/*Escribe aqui tu codigo */
+/*login*/
+.form-login{
+	background-color: #FFFFFF;
+	max-width: 30%;
+	margin: 70px auto;
+	border-radius: 5px;
+}
+body{
+	background-color: #F2F2F2;
+}
+.form-login h2{
+	color: white;
+	background-color: #68DFF0;
+	text-align: center;
+	border-radius: 5px 5px 0 0;
+	text-transform: uppercase;
+	font-size: 20px;
+	padding: 25px;
+}
+.login-wrap{
+	padding: 20px;
+}
+.registration{
+	text-align: center;
+	margin-top: 10px;
+	color: #888888;
+}
+label a{
+	font-weight: normal;
+}
+.btn{
+	color: #797979;
+}
+.centered p{
+	color: #888888;
+}
