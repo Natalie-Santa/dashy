@@ -218,6 +218,80 @@ aside h5{
 	margin-top: -20px;
 	margin-left: 0px;
 }
+		/*progress*/
+.showback .btn-sm{
+	color: white;
+}
+.showback p{
+	color: #8E8E8E;
+	font-size: 12px;
+}
+.sidebar-closed .mt{
+	margin-top: -10px;
+	margin-left: -40px;
+}
+/*form-component*/
+.form-panel{
+	background-color: white;
+	padding-right: 5px;
+	-webkit-box-shadow: 2px 5px 5px 0px rgba(170,178,189,0.98);
+	-moz-box-shadow: 2px 5px 5px 0px rgba(170,178,189,0.98);
+	box-shadow: 2px 5px 5px 0px rgba(170,178,189,0.98);
+	padding-bottom: 10px;
+	padding-left: 5px;
+	padding-bottom: 10px;
+}
+.form-comp{
+	margin-top: 0px;
+}
+.round-form{
+	border-radius: 40px;
+}
+.form-comp p{
+	color: #898989;
+}
+.form-panel label{
+	color: #898989;
+}
+#focusedInput{
+	border: 1px solid #F5A2AB;
+}
+.form-comp .control-label{
+	text-align: left;
+	color: #868686;
+	padding-left: 20px;
+}
+.h3{
+	color: #888888;
+	margin-top: 10px;
+	margin-left: -40px;
+}
+/*basic_tables*/
+.content-panel{
+	background-color: white;
+	padding-bottom: 15px;
+	margin-top: 15px;
+	-webkit-box-shadow: 2px 5px 5px 0px rgba(170,178,189,0.98);
+	-moz-box-shadow: 2px 5px 5px 0px rgba(170,178,189,0.98);
+	box-shadow: 2px 5px 5px 0px rgba(170,178,189,0.98);
+	margin-left: -50px;
+}
+td .btn-xs i{
+	color: white;
+}
+.wrapper thead th{
+	color: #7C7C7C;
+}
+.wrapper h4{
+	color: #8D8D8D;
+	padding-top: 20px;
+	margin-left: 10px;
+}
+.wrapper td{
+	color: #848484;
+}
+		/*gallery*/
+		
           /*login*/
 .form-login{
 	background-color: #FFFFFF;
@@ -254,36 +328,4 @@ label a{
 .centered p{
 	color: #888888;
 }
-/*form-component*/
-.form-panel{
-	background-color: white;
-}
-/*basic_tables*/
-.content-panel{
-	background-color: white;
-	padding-bottom: 15px;
-	margin-top: 20px;
-	-webkit-box-shadow: 2px 5px 5px 0px rgba(170,178,189,0.98);
-	-moz-box-shadow: 2px 5px 5px 0px rgba(170,178,189,0.98);
-	box-shadow: 2px 5px 5px 0px rgba(170,178,189,0.98);
-}
-.wrapper h3{
-	color: #797979;
-	margin-bottom: -5px;
-}
-td .btn-xs i{
-	color: white;
-}
-.wrapper thead th{
-	color: #7C7C7C;
-}
-.wrapper h4{
-	color: #8D8D8D;
-	padding-top: 20px;
-	margin-left: 10px;
-}
-.wrapper td{
-	color: #848484;
-}
-
 
