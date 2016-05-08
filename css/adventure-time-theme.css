@@ -19,7 +19,7 @@
 .wrapper{
 	margin-left: 275px;
 	margin-top: -380px;
-	width: 81%;
+	width: 79%;
 }
       /*dashboard*/
 /*menu-left and header*/
@@ -179,7 +179,7 @@ aside h5{
 	color: #939393;
 	margin-left: 55px;
 	margin-top: -20px;
-	padding-right: 70px;
+	padding-right: 30px;
 }
 .details muted{
 	text-transform: uppercase;
@@ -189,7 +189,35 @@ aside h5{
 	margin-left: 10px;
 	margin-top: -5px;
 }
-
+         /*buttons*/
+.showback:first-child .btn{
+	color: white;
+}
+.showback .btn-round{
+	color: white;
+}
+.showback .btn-default{
+	color: black !important;
+}
+.showback .btn-primary{
+	color: white;
+}
+.col-md-6 .showback{
+	margin-left: -10px;
+	margin-top: 15px;
+}
+.mt {
+	width: 107%;
+    margin-left: -70px;
+    margin-top: -400px;
+}
+.col-md-6 .btn{
+	font-size: 12px;
+}
+.col-md-6 .showback h4{
+	margin-top: -20px;
+	margin-left: 0px;
+}
           /*login*/
 .form-login{
 	background-color: #FFFFFF;
@@ -257,5 +285,5 @@ td .btn-xs i{
 .wrapper td{
 	color: #848484;
 }
-/*buttons*/
+
 
